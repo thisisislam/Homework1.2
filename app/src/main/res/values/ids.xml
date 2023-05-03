@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_viewn" type="id">m</item>
+    <item name="text_viewj" type="id" />
+    <item name="text_view" type="id" />
+    <item name="call_btn" type="id" />
+    <item name="edit_text" type="id" />
+    <item name="send" type="id" />
+    <item name="sendh" type="id" />
+</resources>

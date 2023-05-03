@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework1.2</string>
+    <string name="call_helper"/>
+    <string name="send_to_next_screen">Send</string>
+    <string name="phone_number">Enter phone number</string>
+    <string name="call">Call</string>
+</resources>
